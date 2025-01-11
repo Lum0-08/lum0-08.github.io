@@ -4,7 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vrøvle - Gåte 1</title>
 </head>
 <body style="text-align: center; background-color: #f0f0f0; font-family: Arial, sans-serif;">
     <h1>Velkommen til Vrøvle!</h1>
